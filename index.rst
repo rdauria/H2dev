@@ -16,7 +16,7 @@ H2 is..
 Indices and tables
 ==================
 
-* :ref:`Accounts`
+`Accounts`
 * :ref:`GettingStarted`
 * :ref:`Policies`
 * :ref:`EducationAndSupport`
