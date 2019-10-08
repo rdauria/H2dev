@@ -1,0 +1,6 @@
+.createsphinx.README
+Makefile
+_build/
+index.rst_ORIG
+index1.rst
+make.bat
