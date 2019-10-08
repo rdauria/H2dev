@@ -15,4 +15,4 @@ H2 is ...
     ResearchShowcase
     Status
     FAQ
-    Acknowledgements
+    AcknowledgeH2
