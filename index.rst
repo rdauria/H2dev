@@ -8,19 +8,16 @@ Welcome to H2dev's documentation!
 H2 is..
 
 
-.. toctree::
+ .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   Accounts
+   GettingStarted
+   Policies   
+   EducationAndSupport
+   ResearchShowcase
+   Status
+   FAQ
+   AcknowledgeH2
 
-Indices and tables
-==================
-
-* :ref:`Accounts`
-* :ref:`GettingStarted`
-* :ref:`Policies`
-* :ref:`EducationAndSupport`
-* :ref:`ResearchShowcase`
-* :ref:`Status`
-* :ref:`FAQ`
-* :ref:`AcknowledgeH2`
