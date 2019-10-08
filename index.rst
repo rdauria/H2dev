@@ -11,8 +11,8 @@ H2 is ...
     Accounts
     GettingStarted
     Policies
-    Education and Support
-    Research Showcase
+    EducationAndSupport
+    ResearchShowcase
     Status
     FAQ
     Acknowledgements
