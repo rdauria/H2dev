@@ -5,7 +5,7 @@ H2 is ...
 
 ::
 
-.. toctree::
+ .. toctree::
     :maxdepth: 2
 
     Accounts
