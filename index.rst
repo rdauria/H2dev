@@ -12,7 +12,7 @@ H2 is..
    :maxdepth: 2
    :caption: Contents:
 
-   Accounts
+   Accounts/index.rst
    GettingStarted
    Policies   
    EducationAndSupport
