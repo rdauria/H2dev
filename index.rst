@@ -10,14 +10,15 @@ H2 is..
 
  .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Contents:
 
    Accounts/index.rst
-   GettingStarted/index.rst
+   Getting-Started/index.rst
    Policies/index.rst   
-   EducationAndSupport/index.rst
-   ResearchShowcase/index.rst
+   Education-And-Support/index.rst
+   Research-Showcase/index.rst
    Status/index.rst
    FAQ/index.rst
-   AcknowledgeH2/index.rst
+   Acknowledge-H2/index.rst
 
