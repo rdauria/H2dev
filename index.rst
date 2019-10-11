@@ -5,7 +5,7 @@
 
 Welcome to H2docdev
 ===================
-H2 is..
+H2 is..the way to go!
 
 
  .. toctree::
