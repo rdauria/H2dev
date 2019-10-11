@@ -13,11 +13,11 @@ H2 is..
    :caption: Contents:
 
    Accounts/index.rst
-   GettingStarted
-   Policies   
-   EducationAndSupport
-   ResearchShowcase
-   Status
-   FAQ
-   AcknowledgeH2
+   GettingStarted/index.rst
+   Policies/index.rst   
+   EducationAndSupport/index.rst
+   ResearchShowcase/index.rst
+   Status/index.rst
+   FAQ/index.rst
+   AcknowledgeH2/index.rst
 
