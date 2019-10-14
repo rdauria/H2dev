@@ -1,4 +1,0 @@
-.. _ProjectsOutreach:
-  
-Projects Outreach
-=================

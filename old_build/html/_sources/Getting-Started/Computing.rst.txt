@@ -1,4 +1,0 @@
-.. _Computing:
-  
-Computing
-=========
