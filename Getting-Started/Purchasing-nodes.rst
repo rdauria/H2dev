@@ -1,0 +1,5 @@
+.. _Purchasingnodes:
+
+Purchasing-nodes
+================
+
