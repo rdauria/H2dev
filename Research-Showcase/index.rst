@@ -1,6 +1,6 @@
-####################
-  ResearchShowcase
-####################
+#####################
+  Research Showcase
+#####################
 
 .. toctree::
    :maxdepth: 2
