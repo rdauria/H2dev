@@ -13,13 +13,70 @@ H2 is..
    :hidden:
    :caption: Accounts:
 
-   Accounts/Getting-an-account
+   Accounts/Getting-an-account.rst
    Accounts/Managing-your-account.rst
-   Getting-Started/index.rst
-   Policies/index.rst   
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Getting started:
+
+   Getting-Started/Connecting.rst
+   Getting-Started/Computing.rst
+   Getting-Started/Data-transfer.rst
+   Getting-Started/Software.rst
+   Getting-Started/Storage.rst
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Policies:
+
+   Policies/Academic-research-and-education-mission.rst
+   Policies/Data-transfer-best-practices.rst   
+   Policies/Job-scheduling.rst 
+   Policies/Role-of-the-login-nodes.rst   
+   Policies/Role-of-GPU-nodes.rst 
+   Policies/Security.rst 
+   Policies/Software-installation-policy.rst   
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Education and User Support:
+
+
    Education-And-Support/index.rst
-   Research-Showcase/index.rst
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Research Showcase:
+
+
+   Research-Showcase/Education-and-training.rst
+   Research-Showcase/Technical-support.rst
+   Research-Showcase/Research-facilitation.rst
+   Research-Showcase/Research-proposal-partnership.rst
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Status:
+
    Status/index.rst
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: FAQ:
+
    FAQ/index.rst
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Acknowledge-H2:
+
    Acknowledge-H2/index.rst
 
