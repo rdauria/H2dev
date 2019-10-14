@@ -1,5 +1,5 @@
 ####################
-  AcknowledgeH2
+  Acknowledge H2
 ####################
 
 .. toctree::
