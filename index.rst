@@ -26,6 +26,8 @@ H2 is..
    Getting-Started/Data-transfer.rst
    Getting-Started/Software.rst
    Getting-Started/Storage.rst
+   Getting-Started/Purchsing-nodes.rst
+   Getting-Started/Purchasing-high-performance-storage.rst
 
 .. toctree::
    :maxdepth: 1
@@ -69,9 +71,10 @@ H2 is..
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: FAQ:
+   :caption: News & FAQ:
 
-   FAQ/index.rst
+   News-and-FAQ/News.rst
+   News-and-FAQ/FAQ.rst
 
 .. toctree::
    :maxdepth: 1
