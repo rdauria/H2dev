@@ -11,9 +11,10 @@ H2 is..
  .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Contents:
+   :caption: Accounts:
 
-   Accounts/index.rst
+   Accounts/Getting-an-account
+   Accounts/Managing-your-account.rst
    Getting-Started/index.rst
    Policies/index.rst   
    Education-And-Support/index.rst
