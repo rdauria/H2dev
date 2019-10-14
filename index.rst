@@ -47,19 +47,18 @@ H2 is..
    :hidden:
    :caption: Education and User Support:
 
-
-   Education-And-Support/index.rst
+   Education-And-Support/Education-and-training.rst
+   Education-And-Support/Technical-support.rst
+   Education-And-Support/Research-facilitation.rst
+   Education-And-Support/Research-proposal-partnership.rst
 
 .. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Research Showcase:
 
-
-   Research-Showcase/Education-and-training.rst
-   Research-Showcase/Technical-support.rst
-   Research-Showcase/Research-facilitation.rst
-   Research-Showcase/Research-proposal-partnership.rst
+   Research-Showcase/CaseStudies.rst
+   Research-Showcase/ProjectOutreach.rst
 
 .. toctree::
    :maxdepth: 1
