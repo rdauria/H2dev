@@ -1,5 +1,5 @@
 ####################
-  GettingStarted
+  Getting Started
 ####################
 
 .. toctree::
