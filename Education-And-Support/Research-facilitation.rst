@@ -1,4 +1,4 @@
-.. _Researchfacilitation:
+.. _Research-facilitation:
   
 Research facilitation
 =====================

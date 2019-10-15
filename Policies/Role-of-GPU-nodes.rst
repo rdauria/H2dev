@@ -1,4 +1,4 @@
-.. _RoleofGPUnodes:
+.. _Role-of-GPU-nodes:
   
   
 Role of GPU nodes

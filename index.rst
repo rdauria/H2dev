@@ -17,16 +17,18 @@ H2 is..
    Accounts/Managing-your-account.rst
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 4
    :hidden:
    :caption: Getting started:
 
-   Getting-Started/Connecting.rst
-   Getting-Started/Computing.rst
+   Getting-Started/Connecting/Connecting-via-SSH.rst
+   Getting-Started/Connecting/Connecting-via-JupyterNB.rst
+   Getting-Started/Connecting/Connecting-via-NXclinets.rst
+   Getting-Started/Computing/index.rst
    Getting-Started/Data-transfer.rst
    Getting-Started/Software.rst
    Getting-Started/Storage.rst
-   Getting-Started/Purchsing-nodes.rst
+   Getting-Started/Purchasing-nodes.rst
    Getting-Started/Purchasing-high-performance-storage.rst
 
 .. toctree::
@@ -57,8 +59,8 @@ H2 is..
    :hidden:
    :caption: Research Showcase:
 
-   Research-Showcase/CaseStudies.rst
-   Research-Showcase/ProjectOutreach.rst
+   Research-Showcase/Case-studies.rst
+   Research-Showcase/Projects-outreach-support.rst
 
 .. toctree::
    :maxdepth: 1

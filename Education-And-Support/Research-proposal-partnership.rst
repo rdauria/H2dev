@@ -1,4 +1,4 @@
-.. _Researchproposalpartnership:
+.. _Research-proposal-partnership:
   
 Research proposal partnership
 =============================

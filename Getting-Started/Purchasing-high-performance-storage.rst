@@ -1,4 +1,4 @@
-.. _Purchasinghighperformancestorage:
+.. _Purchasing-high-performance-storage:
 
 Purchasing high performance storage
 ===================================

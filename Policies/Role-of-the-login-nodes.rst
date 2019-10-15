@@ -1,4 +1,4 @@
-.. _Roleoftheloginodes:
+.. _Role-of-the-login-nodes:
   
 Role of the login nodes
 =======================

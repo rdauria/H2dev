@@ -5,5 +5,5 @@
 .. toctree::
    :maxdepth: 2
 
-   thankyou
+   thank-you
    

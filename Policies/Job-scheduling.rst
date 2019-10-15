@@ -1,4 +1,4 @@
-.. _Jobscheduling:
+.. _Job-scheduling:
   
 Job scheduling policy
 =====================

@@ -1,4 +1,4 @@
-.. _Purchasingnodes:
+.. _Purchasing-nodes:
 
 Purchasing-nodes
 ================

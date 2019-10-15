@@ -1,4 +1,4 @@
-.. _Datatransfer:
+.. _Data-transfer-best-practices:
   
 Data Transfer Best Practices
 ============================

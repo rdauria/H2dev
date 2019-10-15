@@ -1,4 +1,4 @@
-.. _Softwareinstallation:
+.. _Software-installation-policy:
   
 Software installation policy
 ============================

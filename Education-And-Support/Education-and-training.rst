@@ -1,4 +1,4 @@
-.. _Educationandtraining:
+.. _Education-and-training:
   
 Education and Training
 ======================

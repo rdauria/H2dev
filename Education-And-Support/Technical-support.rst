@@ -1,4 +1,4 @@
-.. _Technicalsupport:
+.. _Technical-support:
   
 Technical support
 =================

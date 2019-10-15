@@ -1,4 +1,4 @@
-.. _thankyou:
+.. _thank-you:
   
 Thank You
 =========

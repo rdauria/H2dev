@@ -1,4 +1,4 @@
-.. _CaseStudies:
+.. _Case-Studies:
   
 Case Studies
 ============
